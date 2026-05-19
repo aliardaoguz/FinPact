@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Hackathon-BTK_Akademi_Gemini_2026-blueviolet?style=for-the-badge" alt="Hackathon">
   <img src="https://img.shields.io/badge/Powered_By-Gemini_AI-blue?style=for-the-badge&logo=google-gemini" alt="Gemini">
+  <img src="https://img.shields.io/badge/Co--Pilot-Antigravity-orange?style=for-the-badge" alt="Antigravity">
   <img src="https://img.shields.io/badge/Tech_Stack-React_%7C_Vite_%7C_Tailwind-61dafb?style=for-the-badge" alt="Tech Stack">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
 </p>
@@ -31,7 +32,8 @@
 ## 🛠️ Teknolojik Altyapı (Tech Stack)
 
 - **Frontend:** React, Vite, Tailwind CSS
-- **AI Core:** Google Gemini API
+- **AI Core:** Google Gemini API (Gemini 2.5 Flash - 20 RPD Kota Optimize)
+- **AI Co-Pilot & Kod Mimarı:** Antigravity (Projenin hızlı prototiplenmesi, refactor süreçleri ve akıllı kod üretimi aşamalarında aktif olarak kullanılmıştır.)
 - **CI/CD & Deployment:** GitHub Actions & GitHub Pages
 - **Libraries:** `pdfjs-dist` (Sözleşme belgelerinin istemci tarafında güvenle işlenmesi için)
 
